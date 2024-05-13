@@ -1,0 +1,7 @@
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   "24 \355\231\215\354\204\235\355\235\254/assignment 2-2.txt"
