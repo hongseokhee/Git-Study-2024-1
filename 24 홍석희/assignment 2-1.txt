@@ -1,0 +1,17 @@
+commit 449e90f0e130400344f2f65bf2303bdd2a9c8b73 (HEAD -> main)
+Author: hongseokhee <ghdtjrgml690@korea.ac.kr>
+Date:   Mon May 13 16:14:19 2024 +0900
+
+    24 홍석희 assignment 2-2
+
+commit 154169e351903a2b96d2d15bf1f865fba95250dc
+Author: hongseokhee <ghdtjrgml690@korea.ac.kr>
+Date:   Mon May 13 16:12:16 2024 +0900
+
+    24 홍석희 assignment 2-1
+
+commit f6b71a572c76462f7c333cdebf95f9e6c2fbf142 (origin/main)
+Author: hongseokhee <ghdtjrgml690@korea.ac.kr>
+Date:   Mon May 13 16:10:40 2024 +0900
+
+    first commit
